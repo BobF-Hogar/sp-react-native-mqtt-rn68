@@ -1,6 +1,6 @@
 package com.tuanpm.RCTMqtt;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull; // Bob@Hogar - Updated for AndroidX
 import android.util.Log;
 
 import com.facebook.react.bridge.Arguments;

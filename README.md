@@ -5,6 +5,8 @@
 No longer actively maintained.
 Looking for maintainers.
 
+* This fork is intended to update the repository for compatibility with React Native 0.68
+
 ## Description
 
 A [react-native](https://github.com/facebook/react-native) mqtt client module that works
